@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Shrey Nigam 👋</h1>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/54352598/111292598-583f4c80-866e-11eb-8e1c-a14944e57200.gif" width="280" height="180" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/54352598/111292598-583f4c80-866e-11eb-8e1c-a14944e57200.gif" width="380" height="280" />
 
 - 👨‍🎓 I’m a computer science engineering under graduate student. 
 - 💻 A full-stack web developer.
