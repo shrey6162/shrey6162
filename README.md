@@ -26,7 +26,7 @@
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Shrey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey6162&show_icons=true&locale=en&layout=compact" alt="shrey6162" />
 </details>
 <details>
   <summary>:zap: Most Used Languages</summary>
