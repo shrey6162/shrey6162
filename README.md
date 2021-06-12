@@ -9,4 +9,5 @@
 - 🤗 You can also checkout my [Portfolio](https://shrey6162.netlify.app/).
 <br><br>
 <!-- <img height="120" alt="Thanks for visiting me" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
-<p align="center"><a href="https://rzp.io/i/QZcOYt6bOa" target="_blank"><img height="20%" width="20%" src="https://user-images.githubusercontent.com/54352598/121683049-7a643180-cada-11eb-9c9a-20bdaed9b71a.jpg"/></a></p> 
+<!--<p align="center"><a href="https://rzp.io/i/QZcOYt6bOa" target="_blank"><img height="20%" width="20%" src="https://user-images.githubusercontent.com/54352598/121683049-7a643180-cada-11eb-9c9a-20bdaed9b71a.jpg"/></a></p> -->
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shreynigam)
