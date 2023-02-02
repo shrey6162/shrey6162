@@ -5,8 +5,8 @@
 - 👨‍💻 Currently working as Application Development Associate at Accenture 
 - 💻 A full-stack web developer
 - 👯 I'm intrested in Digital Marketing and Cloud Computing but very keen learn about new technologies and resources
-- 🌱 I’m currently learning everything 🤣
-- 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/shrey-nigam-710b3983/)
+- 🌱 I’m currently learning everything 
+- 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/shrey6162/)
 - 🤗 You can also checkout my [Portfolio](https://shrey6162.netlify.app/)
 <br><br>
 <!-- <img height="120" alt="Thanks for visiting me" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
