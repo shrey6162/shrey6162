@@ -4,10 +4,12 @@
 
 - 👨‍💻 Currently working as Frontend Developer at Seventh Triangle Consulting 
 - 💻 A web developer
-- 👯 I'm intrested in Digital Marketing and Cloud Computing but very keen learn about new technologies and resources
+- 📈 Fascinated by stock markets and financial intricacies.
+- 🚀 Equipped with product management expertise to transform ideas into reality.
 - 🌱 I’m currently learning everything 
 - 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/shrey6162/)
 - 🤗 You can also checkout my [Portfolio](https://shrey6162.netlify.app/)
 <br><br>
-
+  Join me on this exciting journey of exploration, innovation, and creative collaboration. Together, we can craft remarkable digital solutions and navigate the ever-evolving worlds of technology and finance!
+  <br><br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shreynigam)
