@@ -7,8 +7,8 @@
 - 📈 Enthralled by the dynamics of stock markets and intricate financial landscapes.
 - 🚀 Equipped with product management expertise to transform ideas into reality.
 - 🌱 Actively pursuing a comprehensive learning journey across diverse domains.
-- 📫 Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/shrey6162/).
-- 🤗 Explore my creative endeavors through my [Portfolio](https://shrey6162.netlify.app/).
+- 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/shrey6162/).
+- 🤗 You can also checkout my [Portfolio](https://shrey6162.netlify.app/).
 <br><br>
   Join me on this exciting journey of exploration, innovation, and creative collaboration. Together, we can craft remarkable digital solutions and navigate the ever-evolving worlds of technology and finance!
   <br><br>
