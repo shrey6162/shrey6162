@@ -1,14 +1,33 @@
-<h1 align="center"> Hi there, I'm Shrey Nigam 👋</h1>
+# Hi there, I'm Shrey Nigam 👋
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/54352598/178420933-0702e404-13a0-4459-8db4-691aee4a6f14.gif" width="280" height="160" />
+<div align="center">
+  <img alt="Hello GIF" src="https://user-images.githubusercontent.com/54352598/178420933-0702e404-13a0-4459-8db4-691aee4a6f14.gif" width="350" height="200" />
+</div>
 
-- 👨‍💻 Currently working as Application Development Associate at Accenture 
-- 💻 A web developer
-- 👯 I'm intrested in Digital Marketing and Cloud Computing but very keen learn about new technologies and resources
-- 🌱 I’m currently learning everything 
-- 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/shrey6162/)
-- 🤗 You can also checkout my [Portfolio](https://shrey6162.netlify.app/)
-<br><br>
-<!-- <img height="120" alt="Thanks for visiting me" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
-<!--<p align="center"><a href="https://rzp.io/i/QZcOYt6bOa" target="_blank"><img height="20%" width="20%" src="https://user-images.githubusercontent.com/54352598/121683049-7a643180-cada-11eb-9c9a-20bdaed9b71a.jpg"/></a></p> -->
+Hey there! I'm **Shrey Nigam**, a passionate Frontend Developer at **Seventh Triangle Consulting**. With a knack for web development and a thirst for learning, I'm always on the lookout for innovative technologies and exciting challenges.
+
+## 🚀 Let's Connect and Collaborate!
+
+- 🌐 Explore my professional profile on [LinkedIn](https://www.linkedin.com/in/shrey6162/)
+- 💼 Discover my skills in product management
+- 🎨 Dive into my portfolio at [shrey6162.netlify.app](https://shrey6162.netlify.app/)
+
+## 💡 Embracing Tech and Finance
+
+- 🌱 Enthusiastic learner, always seeking new horizons.
+- 📈 Fascinated by stock markets and financial intricacies.
+- 🌈 Committed to designing fluid web experiences.
+- 🚀 Equipped with product management expertise to transform ideas into reality.
+
+## 🌟 Let's Learn, Innovate, and Excel Together!
+
+Join me on this exciting journey of exploration, innovation, and creative collaboration. Together, we can craft remarkable digital solutions and navigate the ever-evolving worlds of technology and finance!
+
+<!--
+<p align="center">
+  <a href="https://rzp.io/i/QZcOYt6bOa" target="_blank">
+    <img alt="Support me" src="https://user-images.githubusercontent.com/54352598/121683049-7a643180-cada-11eb-9c9a-20bdaed9b71a.jpg" width="200" />
+  </a>
+</p>
+-->
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shreynigam)
