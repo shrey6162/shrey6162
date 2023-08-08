@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Shrey Nigam 👋</h1>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/54352598/178420933-0702e404-13a0-4459-8db4-691aee4a6f14.gif" width="280" height="160" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/54352598/178420933-0702e404-13a0-4459-8db4-691aee4a6f14.gif" width="310" height="260" />
 
 - 👨‍💻 Currently working as Frontend Developer at Seventh Triangle Consulting 
 - 💻 A web developer
